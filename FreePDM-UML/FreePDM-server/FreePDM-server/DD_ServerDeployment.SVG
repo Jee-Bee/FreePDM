@@ -7,10 +7,6 @@
                 <stop stop-opacity="1" stop-color="rgb(195,209,213)" offset="0%"/>
                 <stop stop-opacity="1" stop-color="rgb(195,209,213)" offset="100%"/>
             </linearGradient>
-            <linearGradient x1="190" x2="190" y1="54" gradientUnits="userSpaceOnUse" y2="110" xlink:type="simple" xlink:actuate="onLoad" id="linearGradient2" xlink:show="other" spreadMethod="pad">
-                <stop stop-opacity="1" stop-color="white" offset="0%"/>
-                <stop stop-opacity="1" stop-color="rgb(195,209,213)" offset="100%"/>
-            </linearGradient>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1">
                 <path d="M189 149 L341 149 L341 251 L189 251 L189 149 Z"/>
             </clipPath>
@@ -214,7 +210,7 @@
             <line y2="430" fill="none" x1="190" clip-path="url(#clipPath29)" x2="190" y1="430"/>
             <line y2="442" fill="none" x1="318" clip-path="url(#clipPath29)" x2="318" y1="430"/>
             <line y2="442" fill="none" x1="318" clip-path="url(#clipPath29)" x2="331" y1="442"/>
-            <rect x="190" y="54" clip-path="url(#clipPath31)" fill="url(#linearGradient2)" width="135" height="56" stroke="none"/>
+            <rect x="190" y="54" clip-path="url(#clipPath31)" fill="rgb(195,209,213)" width="135" height="56" stroke="none"/>
             <text x="200" xml:space="preserve" font-size="9px" y="39" clip-path="url(#clipPath32)" stroke="none">«device»</text>
             <text x="200" xml:space="preserve" font-size="9px" y="51" clip-path="url(#clipPath33)" stroke="none">Data</text>
             <rect fill="none" x="190" width="134" height="55" y="54" clip-path="url(#clipPath34)"/>

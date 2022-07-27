@@ -19,7 +19,7 @@
                 <path d="M10 29 L211 29 L211 111 L10 111 L10 29 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath6">
-                <path d="M250 210 L250 309 L449 309 L449 232 L325 232 L325 210 Z"/>
+                <path d="M250 210 L250 309 L449 309 L449 232 L298 232 L298 210 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath7">
                 <path d="M247 207 L453 207 L453 313 L247 313 L247 207 Z"/>
@@ -28,13 +28,13 @@
                 <path d="M250 212 L451 212 L451 232 L250 232 L250 212 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath9">
-                <path d="M274 214 L322 214 L322 227 L274 227 L274 214 Z"/>
+                <path d="M274 214 L295 214 L295 227 L274 227 L274 214 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath10">
                 <path d="M250 231 L451 231 L451 311 L250 311 L250 231 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11">
-                <path d="M490 210 L490 309 L689 309 L689 232 L570 232 L570 210 Z"/>
+                <path d="M490 210 L490 309 L689 309 L689 232 L543 232 L543 210 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath12">
                 <path d="M487 207 L693 207 L693 313 L487 313 L487 207 Z"/>
@@ -43,13 +43,13 @@
                 <path d="M490 212 L691 212 L691 232 L490 232 L490 212 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath14">
-                <path d="M514 214 L567 214 L567 227 L514 227 L514 214 Z"/>
+                <path d="M514 214 L540 214 L540 227 L514 227 L514 214 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath15">
                 <path d="M490 231 L691 231 L691 311 L490 311 L490 231 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath16">
-                <path d="M730 210 L730 309 L929 309 L929 232 L806 232 L806 210 Z"/>
+                <path d="M730 210 L730 309 L929 309 L929 232 L779 232 L779 210 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath17">
                 <path d="M727 207 L933 207 L933 313 L727 313 L727 207 Z"/>
@@ -58,13 +58,13 @@
                 <path d="M730 212 L931 212 L931 232 L730 232 L730 212 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath19">
-                <path d="M754 214 L803 214 L803 227 L754 227 L754 214 Z"/>
+                <path d="M754 214 L776 214 L776 227 L754 227 L754 214 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath20">
                 <path d="M730 231 L931 231 L931 311 L730 311 L730 231 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath21">
-                <path d="M10 210 L10 309 L209 309 L209 232 L122 232 L122 210 Z"/>
+                <path d="M10 210 L10 309 L209 309 L209 232 L77 232 L77 210 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath22">
                 <path d="M7 207 L213 207 L213 313 L7 313 L7 207 Z"/>
@@ -73,7 +73,7 @@
                 <path d="M10 212 L211 212 L211 232 L10 232 L10 212 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath24">
-                <path d="M34 214 L119 214 L119 227 L34 227 L34 214 Z"/>
+                <path d="M34 214 L74 214 L74 227 L34 227 L34 214 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath25">
                 <path d="M10 231 L211 231 L211 311 L10 311 L10 231 Z"/>
@@ -91,7 +91,7 @@
                 <path d="M735 375 L775 375 L775 388 L735 388 L735 375 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath30">
-                <path d="M990 10 L990 109 L1189 109 L1189 30 L1048 30 L1048 10 Z"/>
+                <path d="M990 10 L990 109 L1189 109 L1189 30 L1088 30 L1088 10 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath31">
                 <path d="M987 7 L1193 7 L1193 113 L987 113 L987 7 Z"/>
@@ -100,13 +100,13 @@
                 <path d="M990 12 L1191 12 L1191 30 L990 30 L990 12 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath33">
-                <path d="M1009 14 L1050 14 L1050 27 L1009 27 L1009 14 Z"/>
+                <path d="M1009 14 L1090 14 L1090 27 L1009 27 L1009 14 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath34">
                 <path d="M990 29 L1191 29 L1191 111 L990 111 L990 29 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath35">
-                <path d="M730 10 L730 109 L929 109 L929 30 L798 30 L798 10 Z"/>
+                <path d="M730 10 L730 109 L929 109 L929 30 L837 30 L837 10 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath36">
                 <path d="M727 7 L933 7 L933 113 L727 113 L727 7 Z"/>
@@ -115,13 +115,13 @@
                 <path d="M730 12 L931 12 L931 30 L730 30 L730 12 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath38">
-                <path d="M749 14 L800 14 L800 27 L749 27 L749 14 Z"/>
+                <path d="M749 14 L839 14 L839 27 L749 27 L749 14 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath39">
                 <path d="M730 29 L931 29 L931 111 L730 111 L730 29 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath40">
-                <path d="M490 10 L490 109 L689 109 L689 30 L533 30 L533 10 Z"/>
+                <path d="M490 10 L490 109 L689 109 L689 30 L573 30 L573 10 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath41">
                 <path d="M487 7 L693 7 L693 113 L487 113 L487 7 Z"/>
@@ -130,13 +130,13 @@
                 <path d="M490 12 L691 12 L691 30 L490 30 L490 12 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath43">
-                <path d="M509 14 L535 14 L535 27 L509 27 L509 14 Z"/>
+                <path d="M509 14 L575 14 L575 27 L509 27 L509 14 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath44">
                 <path d="M490 29 L691 29 L691 111 L490 111 L490 29 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath45">
-                <path d="M250 10 L250 109 L449 109 L449 30 L288 30 L288 10 Z"/>
+                <path d="M250 10 L250 109 L449 109 L449 30 L327 30 L327 10 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath46">
                 <path d="M247 7 L453 7 L453 113 L247 113 L247 7 Z"/>
@@ -145,7 +145,7 @@
                 <path d="M250 12 L451 12 L451 30 L250 30 L250 12 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath48">
-                <path d="M269 14 L290 14 L290 27 L269 27 L269 14 Z"/>
+                <path d="M269 14 L329 14 L329 27 L269 27 L269 14 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath49">
                 <path d="M250 29 L451 29 L451 111 L250 111 L250 29 Z"/>
@@ -197,45 +197,45 @@
             <image font-size="9px" x="11" y="13" clip-path="url(#clipPath3)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAATUlEQVR4XmNgGB5A&#10;IWPBf1wYXS1WAFKIDZBkADkYxYALzz6QhLEa8Ozzf6IxbQx4++0/0RirAR++/yca&#10;YzXg88//RGMMA8jBcAOGNgAAGEWQck25h0sAAAAASUVORK5CYII=" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
             <text x="30" xml:space="preserve" font-size="9px" y="24" clip-path="url(#clipPath4)" stroke="none">FreePDM</text>
             <line y2="30" fill="none" x1="10" clip-path="url(#clipPath5)" x2="209" y1="30"/>
-            <path fill="white" d="M250 210 L325 210 L325 232 L449 232 L449 309 L250 309 L250 210 ZM250 210" clip-path="url(#clipPath6)" fill-rule="evenodd" stroke="none"/>
-            <line y2="210" fill="none" x1="250" clip-path="url(#clipPath7)" x2="325" y1="210"/>
-            <line y2="232" fill="none" x1="325" clip-path="url(#clipPath7)" x2="325" y1="210"/>
-            <line y2="232" fill="none" x1="325" clip-path="url(#clipPath7)" x2="449" y1="232"/>
+            <path fill="white" d="M250 210 L298 210 L298 232 L449 232 L449 309 L250 309 L250 210 ZM250 210" clip-path="url(#clipPath6)" fill-rule="evenodd" stroke="none"/>
+            <line y2="210" fill="none" x1="250" clip-path="url(#clipPath7)" x2="298" y1="210"/>
+            <line y2="232" fill="none" x1="298" clip-path="url(#clipPath7)" x2="298" y1="210"/>
+            <line y2="232" fill="none" x1="298" clip-path="url(#clipPath7)" x2="449" y1="232"/>
             <line y2="309" fill="none" x1="449" clip-path="url(#clipPath7)" x2="449" y1="232"/>
             <line y2="309" fill="none" x1="449" clip-path="url(#clipPath7)" x2="250" y1="309"/>
             <line y2="210" fill="none" x1="250" clip-path="url(#clipPath7)" x2="250" y1="309"/>
             <image font-size="9px" x="256" y="213" clip-path="url(#clipPath8)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAATUlEQVR4XmNgGB5A&#10;IWPBf1wYXS1WAFKIDZBkADkYxYALzz6QhLEa8Ozzf6IxbQx4++0/0RirAR++/yca&#10;YzXg88//RGMMA8jBcAOGNgAAGEWQck25h0sAAAAASUVORK5CYII=" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
-            <text x="275" xml:space="preserve" font-size="9px" y="224" clip-path="url(#clipPath9)" stroke="none">fpdm-SQL</text>
+            <text x="275" xml:space="preserve" font-size="9px" y="224" clip-path="url(#clipPath9)" stroke="none">SQL</text>
             <line y2="232" fill="none" x1="250" clip-path="url(#clipPath10)" x2="449" y1="232"/>
-            <path fill="white" d="M490 210 L570 210 L570 232 L689 232 L689 309 L490 309 L490 210 ZM490 210" clip-path="url(#clipPath11)" fill-rule="evenodd" stroke="none"/>
-            <line y2="210" fill="none" x1="490" clip-path="url(#clipPath12)" x2="570" y1="210"/>
-            <line y2="232" fill="none" x1="570" clip-path="url(#clipPath12)" x2="570" y1="210"/>
-            <line y2="232" fill="none" x1="570" clip-path="url(#clipPath12)" x2="689" y1="232"/>
+            <path fill="white" d="M490 210 L543 210 L543 232 L689 232 L689 309 L490 309 L490 210 ZM490 210" clip-path="url(#clipPath11)" fill-rule="evenodd" stroke="none"/>
+            <line y2="210" fill="none" x1="490" clip-path="url(#clipPath12)" x2="543" y1="210"/>
+            <line y2="232" fill="none" x1="543" clip-path="url(#clipPath12)" x2="543" y1="210"/>
+            <line y2="232" fill="none" x1="543" clip-path="url(#clipPath12)" x2="689" y1="232"/>
             <line y2="309" fill="none" x1="689" clip-path="url(#clipPath12)" x2="689" y1="232"/>
             <line y2="309" fill="none" x1="689" clip-path="url(#clipPath12)" x2="490" y1="309"/>
             <line y2="210" fill="none" x1="490" clip-path="url(#clipPath12)" x2="490" y1="309"/>
             <image font-size="9px" x="496" y="213" clip-path="url(#clipPath13)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAATUlEQVR4XmNgGB5A&#10;IWPBf1wYXS1WAFKIDZBkADkYxYALzz6QhLEa8Ozzf6IxbQx4++0/0RirAR++/yca&#10;YzXg88//RGMMA8jBcAOGNgAAGEWQck25h0sAAAAASUVORK5CYII=" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
-            <text x="515" xml:space="preserve" font-size="9px" y="224" clip-path="url(#clipPath14)" stroke="none">fpdm-LDAP</text>
+            <text x="515" xml:space="preserve" font-size="9px" y="224" clip-path="url(#clipPath14)" stroke="none">LDAP</text>
             <line y2="232" fill="none" x1="490" clip-path="url(#clipPath15)" x2="689" y1="232"/>
-            <path fill="white" d="M730 210 L806 210 L806 232 L929 232 L929 309 L730 309 L730 210 ZM730 210" clip-path="url(#clipPath16)" fill-rule="evenodd" stroke="none"/>
-            <line y2="210" fill="none" x1="730" clip-path="url(#clipPath17)" x2="806" y1="210"/>
-            <line y2="232" fill="none" x1="806" clip-path="url(#clipPath17)" x2="806" y1="210"/>
-            <line y2="232" fill="none" x1="806" clip-path="url(#clipPath17)" x2="929" y1="232"/>
+            <path fill="white" d="M730 210 L779 210 L779 232 L929 232 L929 309 L730 309 L730 210 ZM730 210" clip-path="url(#clipPath16)" fill-rule="evenodd" stroke="none"/>
+            <line y2="210" fill="none" x1="730" clip-path="url(#clipPath17)" x2="779" y1="210"/>
+            <line y2="232" fill="none" x1="779" clip-path="url(#clipPath17)" x2="779" y1="210"/>
+            <line y2="232" fill="none" x1="779" clip-path="url(#clipPath17)" x2="929" y1="232"/>
             <line y2="309" fill="none" x1="929" clip-path="url(#clipPath17)" x2="929" y1="232"/>
             <line y2="309" fill="none" x1="929" clip-path="url(#clipPath17)" x2="730" y1="309"/>
             <line y2="210" fill="none" x1="730" clip-path="url(#clipPath17)" x2="730" y1="309"/>
             <image font-size="9px" x="736" y="213" clip-path="url(#clipPath18)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAATUlEQVR4XmNgGB5A&#10;IWPBf1wYXS1WAFKIDZBkADkYxYALzz6QhLEa8Ozzf6IxbQx4++0/0RirAR++/yca&#10;YzXg88//RGMMA8jBcAOGNgAAGEWQck25h0sAAAAASUVORK5CYII=" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
-            <text x="755" xml:space="preserve" font-size="9px" y="224" clip-path="url(#clipPath19)" stroke="none">fpdm-Web</text>
+            <text x="755" xml:space="preserve" font-size="9px" y="224" clip-path="url(#clipPath19)" stroke="none">Web</text>
             <line y2="232" fill="none" x1="730" clip-path="url(#clipPath20)" x2="929" y1="232"/>
-            <path fill="white" d="M10 210 L122 210 L122 232 L209 232 L209 309 L10 309 L10 210 ZM10 210" clip-path="url(#clipPath21)" fill-rule="evenodd" stroke="none"/>
-            <line y2="210" fill="none" x1="10" clip-path="url(#clipPath22)" x2="122" y1="210"/>
-            <line y2="232" fill="none" x1="122" clip-path="url(#clipPath22)" x2="122" y1="210"/>
-            <line y2="232" fill="none" x1="122" clip-path="url(#clipPath22)" x2="209" y1="232"/>
+            <path fill="white" d="M10 210 L77 210 L77 232 L209 232 L209 309 L10 309 L10 210 ZM10 210" clip-path="url(#clipPath21)" fill-rule="evenodd" stroke="none"/>
+            <line y2="210" fill="none" x1="10" clip-path="url(#clipPath22)" x2="77" y1="210"/>
+            <line y2="232" fill="none" x1="77" clip-path="url(#clipPath22)" x2="77" y1="210"/>
+            <line y2="232" fill="none" x1="77" clip-path="url(#clipPath22)" x2="209" y1="232"/>
             <line y2="309" fill="none" x1="209" clip-path="url(#clipPath22)" x2="209" y1="232"/>
             <line y2="309" fill="none" x1="209" clip-path="url(#clipPath22)" x2="10" y1="309"/>
             <line y2="210" fill="none" x1="10" clip-path="url(#clipPath22)" x2="10" y1="309"/>
             <image font-size="9px" x="16" y="213" clip-path="url(#clipPath23)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAATUlEQVR4XmNgGB5A&#10;IWPBf1wYXS1WAFKIDZBkADkYxYALzz6QhLEa8Ozzf6IxbQx4++0/0RirAR++/yca&#10;YzXg88//RGMMA8jBcAOGNgAAGEWQck25h0sAAAAASUVORK5CYII=" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
-            <text x="35" xml:space="preserve" font-size="9px" y="224" clip-path="url(#clipPath24)" stroke="none">FreePDM-Backend</text>
+            <text x="35" xml:space="preserve" font-size="9px" y="224" clip-path="url(#clipPath24)" stroke="none">Backend</text>
             <line y2="232" fill="none" x1="10" clip-path="url(#clipPath25)" x2="209" y1="232"/>
             <path fill="rgb(255,255,204)" d="M490 370 L490 370 L678 370 L690 382 L690 429 L490 429 L490 370 ZM490 370" fill-rule="evenodd" clip-path="url(#clipPath26)" stroke="none"/>
             <text x="496" xml:space="preserve" font-size="9px" y="385" clip-path="url(#clipPath27)" stroke="none">LDAP Server == File Server</text>
@@ -259,45 +259,45 @@
             <line y2="370" fill="none" x1="730" clip-path="url(#clipPath28)" x2="730" y1="370"/>
             <line y2="382" fill="none" x1="817" clip-path="url(#clipPath28)" x2="817" y1="370"/>
             <line y2="382" fill="none" x1="817" clip-path="url(#clipPath28)" x2="830" y1="382"/>
-            <path fill="rgb(195,209,213)" d="M990 10 L1048 10 L1048 30 L1189 30 L1189 109 L990 109 L990 10 ZM990 10" clip-path="url(#clipPath30)" fill-rule="evenodd" stroke="none"/>
-            <line y2="10" fill="none" x1="990" clip-path="url(#clipPath31)" x2="1048" y1="10"/>
-            <line y2="30" fill="none" x1="1048" clip-path="url(#clipPath31)" x2="1048" y1="10"/>
-            <line y2="30" fill="none" x1="1048" clip-path="url(#clipPath31)" x2="1189" y1="30"/>
+            <path fill="rgb(195,209,213)" d="M990 10 L1088 10 L1088 30 L1189 30 L1189 109 L990 109 L990 10 ZM990 10" clip-path="url(#clipPath30)" fill-rule="evenodd" stroke="none"/>
+            <line y2="10" fill="none" x1="990" clip-path="url(#clipPath31)" x2="1088" y1="10"/>
+            <line y2="30" fill="none" x1="1088" clip-path="url(#clipPath31)" x2="1088" y1="10"/>
+            <line y2="30" fill="none" x1="1088" clip-path="url(#clipPath31)" x2="1189" y1="30"/>
             <line y2="109" fill="none" x1="1189" clip-path="url(#clipPath31)" x2="1189" y1="30"/>
             <line y2="109" fill="none" x1="1189" clip-path="url(#clipPath31)" x2="990" y1="109"/>
             <line y2="10" fill="none" x1="990" clip-path="url(#clipPath31)" x2="990" y1="109"/>
             <image font-size="9px" x="991" y="13" clip-path="url(#clipPath32)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAaElEQVR4XmNgGB5A&#10;IWPBf1wYXS1WAFKIDZBkADkYxYALzz6QhLEa8Ozzf6wYJI9NjCgDQHKw8EAXxzDg&#10;7bf/KDh+6g6UQAXxYXJYDfjw/T8cgxTjwjAXYRjw+ed/ojGGAeRguAFDGwAARTKA&#10;7XigT9MAAAAASUVORK5CYII=" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
-            <text x="1010" xml:space="preserve" font-size="9px" y="24" clip-path="url(#clipPath33)" stroke="none">FreeCAD</text>
+            <text x="1010" xml:space="preserve" font-size="9px" y="24" clip-path="url(#clipPath33)" stroke="none">FreeCAD-External</text>
             <line y2="30" fill="none" x1="990" clip-path="url(#clipPath34)" x2="1189" y1="30"/>
-            <path fill="rgb(195,209,213)" d="M730 10 L798 10 L798 30 L929 30 L929 109 L730 109 L730 10 ZM730 10" clip-path="url(#clipPath35)" fill-rule="evenodd" stroke="none"/>
-            <line y2="10" fill="none" x1="730" clip-path="url(#clipPath36)" x2="798" y1="10"/>
-            <line y2="30" fill="none" x1="798" clip-path="url(#clipPath36)" x2="798" y1="10"/>
-            <line y2="30" fill="none" x1="798" clip-path="url(#clipPath36)" x2="929" y1="30"/>
+            <path fill="rgb(195,209,213)" d="M730 10 L837 10 L837 30 L929 30 L929 109 L730 109 L730 10 ZM730 10" clip-path="url(#clipPath35)" fill-rule="evenodd" stroke="none"/>
+            <line y2="10" fill="none" x1="730" clip-path="url(#clipPath36)" x2="837" y1="10"/>
+            <line y2="30" fill="none" x1="837" clip-path="url(#clipPath36)" x2="837" y1="10"/>
+            <line y2="30" fill="none" x1="837" clip-path="url(#clipPath36)" x2="929" y1="30"/>
             <line y2="109" fill="none" x1="929" clip-path="url(#clipPath36)" x2="929" y1="30"/>
             <line y2="109" fill="none" x1="929" clip-path="url(#clipPath36)" x2="730" y1="109"/>
             <line y2="10" fill="none" x1="730" clip-path="url(#clipPath36)" x2="730" y1="109"/>
             <image font-size="9px" x="731" y="13" clip-path="url(#clipPath37)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAaElEQVR4XmNgGB5A&#10;IWPBf1wYXS1WAFKIDZBkADkYxYALzz6QhLEa8Ozzf6wYJI9NjCgDQHKw8EAXxzDg&#10;7bf/KDh+6g6UQAXxYXJYDfjw/T8cgxTjwjAXYRjw+ed/ojGGAeRguAFDGwAARTKA&#10;7XigT9MAAAAASUVORK5CYII=" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
-            <text x="750" xml:space="preserve" font-size="9px" y="24" clip-path="url(#clipPath38)" stroke="none">WebServer</text>
+            <text x="750" xml:space="preserve" font-size="9px" y="24" clip-path="url(#clipPath38)" stroke="none">WebServer-External</text>
             <line y2="30" fill="none" x1="730" clip-path="url(#clipPath39)" x2="929" y1="30"/>
-            <path fill="rgb(195,209,213)" d="M490 10 L533 10 L533 30 L689 30 L689 109 L490 109 L490 10 ZM490 10" clip-path="url(#clipPath40)" fill-rule="evenodd" stroke="none"/>
-            <line y2="10" fill="none" x1="490" clip-path="url(#clipPath41)" x2="533" y1="10"/>
-            <line y2="30" fill="none" x1="533" clip-path="url(#clipPath41)" x2="533" y1="10"/>
-            <line y2="30" fill="none" x1="533" clip-path="url(#clipPath41)" x2="689" y1="30"/>
+            <path fill="rgb(195,209,213)" d="M490 10 L573 10 L573 30 L689 30 L689 109 L490 109 L490 10 ZM490 10" clip-path="url(#clipPath40)" fill-rule="evenodd" stroke="none"/>
+            <line y2="10" fill="none" x1="490" clip-path="url(#clipPath41)" x2="573" y1="10"/>
+            <line y2="30" fill="none" x1="573" clip-path="url(#clipPath41)" x2="573" y1="10"/>
+            <line y2="30" fill="none" x1="573" clip-path="url(#clipPath41)" x2="689" y1="30"/>
             <line y2="109" fill="none" x1="689" clip-path="url(#clipPath41)" x2="689" y1="30"/>
             <line y2="109" fill="none" x1="689" clip-path="url(#clipPath41)" x2="490" y1="109"/>
             <line y2="10" fill="none" x1="490" clip-path="url(#clipPath41)" x2="490" y1="109"/>
             <image font-size="9px" x="491" y="13" clip-path="url(#clipPath42)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAaElEQVR4XmNgGB5A&#10;IWPBf1wYXS1WAFKIDZBkADkYxYALzz6QhLEa8Ozzf6wYJI9NjCgDQHKw8EAXxzDg&#10;7bf/KDh+6g6UQAXxYXJYDfjw/T8cgxTjwjAXYRjw+ed/ojGGAeRguAFDGwAARTKA&#10;7XigT9MAAAAASUVORK5CYII=" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
-            <text x="510" xml:space="preserve" font-size="9px" y="24" clip-path="url(#clipPath43)" stroke="none">LDAP</text>
+            <text x="510" xml:space="preserve" font-size="9px" y="24" clip-path="url(#clipPath43)" stroke="none">LDAP-External</text>
             <line y2="30" fill="none" x1="490" clip-path="url(#clipPath44)" x2="689" y1="30"/>
-            <path fill="rgb(195,209,213)" d="M250 10 L288 10 L288 30 L449 30 L449 109 L250 109 L250 10 ZM250 10" clip-path="url(#clipPath45)" fill-rule="evenodd" stroke="none"/>
-            <line y2="10" fill="none" x1="250" clip-path="url(#clipPath46)" x2="288" y1="10"/>
-            <line y2="30" fill="none" x1="288" clip-path="url(#clipPath46)" x2="288" y1="10"/>
-            <line y2="30" fill="none" x1="288" clip-path="url(#clipPath46)" x2="449" y1="30"/>
+            <path fill="rgb(195,209,213)" d="M250 10 L327 10 L327 30 L449 30 L449 109 L250 109 L250 10 ZM250 10" clip-path="url(#clipPath45)" fill-rule="evenodd" stroke="none"/>
+            <line y2="10" fill="none" x1="250" clip-path="url(#clipPath46)" x2="327" y1="10"/>
+            <line y2="30" fill="none" x1="327" clip-path="url(#clipPath46)" x2="327" y1="10"/>
+            <line y2="30" fill="none" x1="327" clip-path="url(#clipPath46)" x2="449" y1="30"/>
             <line y2="109" fill="none" x1="449" clip-path="url(#clipPath46)" x2="449" y1="30"/>
             <line y2="109" fill="none" x1="449" clip-path="url(#clipPath46)" x2="250" y1="109"/>
             <line y2="10" fill="none" x1="250" clip-path="url(#clipPath46)" x2="250" y1="109"/>
             <image font-size="9px" x="251" y="13" clip-path="url(#clipPath47)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAaElEQVR4XmNgGB5A&#10;IWPBf1wYXS1WAFKIDZBkADkYxYALzz6QhLEa8Ozzf6wYJI9NjCgDQHKw8EAXxzDg&#10;7bf/KDh+6g6UQAXxYXJYDfjw/T8cgxTjwjAXYRjw+ed/ojGGAeRguAFDGwAARTKA&#10;7XigT9MAAAAASUVORK5CYII=" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
-            <text x="270" xml:space="preserve" font-size="9px" y="24" clip-path="url(#clipPath48)" stroke="none">SQL</text>
+            <text x="270" xml:space="preserve" font-size="9px" y="24" clip-path="url(#clipPath48)" stroke="none">SQL-External</text>
             <line y2="30" fill="none" x1="250" clip-path="url(#clipPath49)" x2="449" y1="30"/>
             <path fill="white" d="M990 210 L1092 210 L1092 232 L1189 232 L1189 309 L990 309 L990 210 ZM990 210" clip-path="url(#clipPath50)" fill-rule="evenodd" stroke="none"/>
             <line y2="210" fill="none" x1="990" clip-path="url(#clipPath51)" x2="1092" y1="210"/>
@@ -332,7 +332,7 @@
             <line clip-path="url(#clipPath56)" fill="none" x1="100" x2="120" y1="120" y2="120" stroke="black" stroke-width="0.1"/>
             <line clip-path="url(#clipPath56)" fill="none" x1="110" x2="110" y1="110" y2="130" stroke="black" stroke-width="0.1"/>
             <circle clip-path="url(#clipPath56)" fill="none" r="10" cx="110" cy="120" stroke="black" stroke-width="0.1"/>
-            <line clip-path="url(#clipPath55)" fill="none" x1="110" x2="110" y1="110" y2="210" stroke="black"/>
+            <line clip-path="url(#clipPath55)" fill="none" x1="110" x2="110" y1="110" y2="232" stroke="black"/>
             <circle r="9.5" clip-path="url(#clipPath56)" cx="109.5" cy="119.5" stroke="none"/>
             <line clip-path="url(#clipPath56)" fill="none" x1="100" x2="120" y1="120" y2="120" stroke="black" stroke-width="0.1"/>
             <line clip-path="url(#clipPath56)" fill="none" x1="110" x2="110" y1="110" y2="130" stroke="black" stroke-width="0.1"/>
@@ -367,34 +367,41 @@
 - User Interaction( oa request rights)
 - File / Item creation / Changes</title>
     </rect>
-    <rect x="250" y="210" fill-opacity="0" width="200" title="Part of SQLUserInteraction?" id="fpdm-SQL" height="100" stroke-opacity="0">
-        <title>Part of SQLUserInteraction?</title>
+    <rect x="250" y="210" fill-opacity="0" width="200" title="Part of SQLUserInteraction?&#10;Or on its own" id="SQL" height="100" stroke-opacity="0">
+        <title>Part of SQLUserInteraction?
+Or on its own</title>
     </rect>
-    <rect x="490" y="210" fill-opacity="0" width="200" title="https://creately.com/blog/diagrams/component-diagram-tutorial/" id="fpdm-LDAP" height="100" stroke-opacity="0">
+    <rect x="490" y="210" fill-opacity="0" width="200" title="https://creately.com/blog/diagrams/component-diagram-tutorial/" id="LDAP" height="100" stroke-opacity="0">
         <title>https://creately.com/blog/diagrams/component-diagram-tutorial/</title>
     </rect>
-    <rect x="730" y="210" fill-opacity="0" width="200" id="fpdm-Web" height="100" stroke-opacity="0"/>
-    <rect x="10" y="210" fill-opacity="0" width="200" title="User&#10;- Roles&#10;- User Properties&#10;Activities&#10;- Items&#10;- Parts&#10;-  States&#10;" id="FreePDM-Backend" height="100" stroke-opacity="0">
-        <title>User
-- Roles
-- User Properties
-Activities
-- Items
-- Parts
--  States
-</title>
+    <rect x="730" y="210" fill-opacity="0" width="200" id="Web" height="100" stroke-opacity="0"/>
+    <rect x="10" y="210" fill-opacity="0" width="200" title="Uitleg:&#10;-------&#10;Situatie:&#10;Om te beginnen ik heb een SQL server EN een File Server( de file server kan een LDAP server zijn, maar daar ben ik nog naar aan het kijken).&#10;Op deze File server is alle data te vinden wat betreft documenten en Modellen / CAD Files. Omdat er tracebillity moet zijn staat iedere File er waarschijnlijk meerdere keren op(git en svn kennen delta's maar CAD files zijn binaire files en is dit dus niet mogelijk).&#10;Wat heb ik tot nu toe: Ik heb Users met een of meerdere Rollen(Een project Manager kan een nieuw project maken een CAD user niet). Een user kan worden toegevoegd aan een project en vanaf dat moment kan hij documenten / modellen die bij dat project horen openen en aanpassen.&#10;Een (CAD )User kan nieuwe Items maken en CAD Files / Documenten aan het Item toevoegen, inclusief de verschillende opgeslagen versies.&#10;Om een File te mogen aanpassen moet de CAD User toestemming vragen (Check-out) en wanneer de User de aanpassingen naar de Fileserver / SQL server wil doen doet hij een Check-in&#10;Waar loop ik tegen aan:&#10;- Ik kan wel de verschillende functies defineren voor de classes. Maar Wat heb ik nodig om de verschillende classes te koppelen?&#10;- waar maak ik onderscheid in de verschillende classes? vb ik heb Item, Model, Document en alle drie hebben ze een versie state?&#10;- " id="Backend" height="100" stroke-opacity="0">
+        <title>Uitleg:
+-------
+Situatie:
+Om te beginnen ik heb een SQL server EN een File Server( de file server kan een LDAP server zijn, maar daar ben ik nog naar aan het kijken).
+Op deze File server is alle data te vinden wat betreft documenten en Modellen / CAD Files. Omdat er tracebillity moet zijn staat iedere File er waarschijnlijk meerdere keren op(git en svn kennen delta's maar CAD files zijn binaire files en is dit dus niet mogelijk).
+Wat heb ik tot nu toe: Ik heb Users met een of meerdere Rollen(Een project Manager kan een nieuw project maken een CAD user niet). Een user kan worden toegevoegd aan een project en vanaf dat moment kan hij documenten / modellen die bij dat project horen openen en aanpassen.
+Een (CAD )User kan nieuwe Items maken en CAD Files / Documenten aan het Item toevoegen, inclusief de verschillende opgeslagen versies.
+Om een File te mogen aanpassen moet de CAD User toestemming vragen (Check-out) en wanneer de User de aanpassingen naar de Fileserver / SQL server wil doen doet hij een Check-in
+Waar loop ik tegen aan:
+- Ik kan wel de verschillende functies defineren voor de classes. Maar Wat heb ik nodig om de verschillende classes te koppelen?
+- waar maak ik onderscheid in de verschillende classes? vb ik heb Item, Model, Document en alle drie hebben ze een versie state?
+- </title>
     </rect>
     <rect x="490" width="201" fill-opacity="0" height="60" y="370" stroke-opacity="0"/>
     <rect x="730" width="100" fill-opacity="0" height="41" y="370" stroke-opacity="0"/>
-    <rect x="990" y="10" fill-opacity="0" width="200" title="External Module.&#10;&#10;It would be great to provide and interface with FC so that Directly from FC new items" id="FreeCAD" height="100" stroke-opacity="0">
+    <rect x="990" y="10" fill-opacity="0" width="200" title="External Module.&#10;&#10;It would be great to provide and interface with FC so that Directly from FC new items" id="FreeCAD-External" height="100" stroke-opacity="0">
         <title>External Module.
 
 It would be great to provide and interface with FC so that Directly from FC new items</title>
     </rect>
-    <rect x="730" y="10" fill-opacity="0" width="200" title="For a Webserver Assumed that it uses a LAMP / LEMP stack is fully installed." id="WebServer" height="100" stroke-opacity="0">
+    <rect x="730" y="10" fill-opacity="0" width="200" title="For a Webserver Assumed that it uses a LAMP / LEMP stack is fully installed." id="WebServer-External" height="100" stroke-opacity="0">
         <title>For a Webserver Assumed that it uses a LAMP / LEMP stack is fully installed.</title>
     </rect>
-    <rect x="490" y="10" fill-opacity="0" width="200" id="LDAP" height="100" stroke-opacity="0"/>
-    <rect x="250" y="10" fill-opacity="0" width="200" id="SQL" height="100" stroke-opacity="0"/>
-    <rect x="990" y="210" fill-opacity="0" width="200" id="FreeCAD-AddOn" height="100" stroke-opacity="0"/>
+    <rect x="490" y="10" fill-opacity="0" width="200" id="LDAP-External" height="100" stroke-opacity="0"/>
+    <rect x="250" y="10" fill-opacity="0" width="200" id="SQL-External" height="100" stroke-opacity="0"/>
+    <rect x="990" y="210" fill-opacity="0" width="200" title="ChangeStatus of Item / Model" id="FreeCAD-AddOn" height="100" stroke-opacity="0">
+        <title>ChangeStatus of Item / Model</title>
+    </rect>
 </svg>
